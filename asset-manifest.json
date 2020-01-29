@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Robot-Search/static/css/main.b50625e5.chunk.css",
+    "main.js": "/Robot-Search/static/js/main.5ebbd6fe.chunk.js",
+    "main.js.map": "/Robot-Search/static/js/main.5ebbd6fe.chunk.js.map",
+    "runtime-main.js": "/Robot-Search/static/js/runtime-main.abe29247.js",
+    "runtime-main.js.map": "/Robot-Search/static/js/runtime-main.abe29247.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/Robot-Search/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.2475d6f8.chunk.js": "/Robot-Search/static/js/2.2475d6f8.chunk.js",
+    "static/js/2.2475d6f8.chunk.js.map": "/Robot-Search/static/js/2.2475d6f8.chunk.js.map",
+    "index.html": "/Robot-Search/index.html",
+    "precache-manifest.6efe4b32c032616610f232ec17282a40.js": "/Robot-Search/precache-manifest.6efe4b32c032616610f232ec17282a40.js",
+    "service-worker.js": "/Robot-Search/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/Robot-Search/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.b50625e5.chunk.css.map": "/Robot-Search/static/css/main.b50625e5.chunk.css.map",
+    "static/js/2.2475d6f8.chunk.js.LICENSE": "/Robot-Search/static/js/2.2475d6f8.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abe29247.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.2475d6f8.chunk.js",
+    "static/css/main.b50625e5.chunk.css",
+    "static/js/main.5ebbd6fe.chunk.js"
+  ]
+}
